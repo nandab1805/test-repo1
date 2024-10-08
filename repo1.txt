@@ -1,1 +1,2 @@
 Hi i am learning devops shell scripting
+tmrw i will learn git
